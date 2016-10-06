@@ -50,8 +50,6 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  background-color: black;
-  opacity: 0.8px;
   color:#373737;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
