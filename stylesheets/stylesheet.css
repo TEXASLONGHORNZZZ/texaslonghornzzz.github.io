@@ -368,6 +368,7 @@ Full-Width Styles
 #main_content {
   padding-top: 40px;
   background-color: black;
+  opacity: 0.8px;
 }
 
 #footer_wrap {
